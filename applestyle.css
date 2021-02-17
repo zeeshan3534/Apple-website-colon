@@ -1,0 +1,125 @@
+body{
+margin-top: 0   ;
+font-family:  "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}
+
+.c11 {
+overflow: hidden;
+background-color: #333;
+width: 100%;    
+}
+#fixed{
+    position: fixed;
+    width: 100%;
+}
+.c11 a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 10px 12px ;
+text-decoration: none;
+font-size: 14px;
+position: relative;
+left: 33%  ;
+padding-left: 30px;
+
+}
+
+.c11 a:hover {
+color: gray;
+
+}
+
+.c11 a.active {   
+color: white;
+}
+#c12{
+padding-top: 8px;
+position: relative;
+right: 13%;
+
+}
+#c13{
+    padding-top: -1%;
+}   
+#c14{
+    padding:7px;
+    background-color: rgb(14, 147, 255);
+}
+
+#c14 a{
+    text-decoration: none;
+    color: cornsilk;
+    font-size: 14px;
+}
+#c15 {
+    box-sizing: border-box;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color:rgb(224, 222, 222) ;
+}
+div p a{
+    text-decoration: none;
+    color: rgb(0, 107, 247);
+}
+.c16{
+    padding-top: 40px;
+    text-align: center;
+    line-height:15px;
+    
+
+}
+.c17{
+    display: inline;
+    text-decoration: none;
+    color: rgb(0, 107, 247) ;
+}
+.c17:hover{
+    text-decoration: underline;
+}
+.container {
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .one {
+    float: left;
+    padding: 15px;
+  }
+  
+  .two {
+    margin-left: 15%;
+    padding: 15px
+  }
+  .hoverpx:hover{
+      border:4px solid white;
+  }
+.box{
+    background-color: rgba(241, 237, 237);
+    /* text-align: center; */
+    padding-left: 20%;
+    padding-right: 20%;
+    color: rgb(124, 123, 123);
+    font-size: 10px;
+}
+.c20{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    line-height:20px;
+    font-size: 10px;
+    
+}
+.c20 a{
+    text-decoration: none;
+    color:  rgb(156, 156, 156);
+}
+.c20 a:hover{
+    text-decoration: underline;
+}
+.box p a{
+    color:  rgb(156, 156, 156);
+}
+.box p a:hover{
+    text-decoration:underline;
+}
